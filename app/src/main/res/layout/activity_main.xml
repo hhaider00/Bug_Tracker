@@ -81,7 +81,7 @@
                 android:id="@+id/button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Button" />
+                android:text="Add Bug" />
 
             <TableLayout
                 android:id="@+id/Bug_Table"
@@ -96,13 +96,13 @@
 
                     <TextView
                         android:id="@+id/Date"
-                        android:layout_width="47dp"
+                        android:layout_width="67dp"
                         android:layout_height="wrap_content"
                         android:text="Date" />
 
                     <TextView
                         android:id="@+id/Version"
-                        android:layout_width="99dp"
+                        android:layout_width="111dp"
                         android:layout_height="wrap_content"
                         android:text="Version" />
 
@@ -116,7 +116,7 @@
                         android:id="@+id/Desc"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Description th the thetheht  ththet " />
+                        android:text="Description" />
                 </TableRow>
 
             </TableLayout>
